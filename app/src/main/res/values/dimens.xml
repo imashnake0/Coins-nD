@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_padding">24dp</dimen>
+    <dimen name="coin_label_padding">6dp</dimen>
+</resources>
